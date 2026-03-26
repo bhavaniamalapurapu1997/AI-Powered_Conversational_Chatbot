@@ -1,1 +1,2 @@
 # AI-Powered_Conversational_Chatbot
+Developed an intelligent chatbot leveraging advanced NLP and vector search technologies. Built semantic search and context-aware responses using Sentence Transformers for text embeddings. Implemented FAISS for efficient similarity search and retrieval from large datasets. Integrated Google Generative AI for natural, human-like dialogue generation. Developed and tested the solution in Google Colab, ensuring reproducibility and scalability
